@@ -14,7 +14,6 @@ Extensive experiments show that \method achieves the best classification perform
 ## Requirements
 
 We recommend using the following versions of packages:
-###This Code is built for pytorch GPU version. we highly recommend you to install pytorch for the GPU version!
  - pytorch==1.13.1
  - tqdm==4.66.2
  - pandas==2.0.3
